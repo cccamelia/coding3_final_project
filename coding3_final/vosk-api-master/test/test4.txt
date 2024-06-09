@@ -1,0 +1,48 @@
+the lego i love them be back in the eighties in berlin when i grew up and i still love them and these days i pulled lego with my kids on saturday afternoons and the reason that my love for leg or has remained evergreen is quite simply that lego was a system for realizing creativity with almost no barrier
+yeah to entry
+none not only a lego dad i'm also the see of get up and if you don't know get up you can think of it as the home of coding it's we are all the software developers the cheap learns of our society
+collaborate together
+and it's part of our mission to make as easy as possible for every developer to build small and big ideas with coat
+but in contrast to lego the process of building software fence daunting to most people
+this all started to change when church a pity came along and a twenty twenty two now we live in a world that intelligent machines understand as as much as we understand them
+all because of language
+and this will forever changed the baby crane software
+up until now in order to create software you had to be a professional software developer you had to understand speak and interpret the highly complex sometimes nonsensical language of a machine that recall coat
+modern code still looks like hieroglyphics to most people he's an example this from the early nineteen forties is the world's first computer programming language cause plant i feel it set the foundation for the modern code that be used to as you can see it's a few numbers some bubbles in some big
+as brackets not much humanity here right flash forward about twenty years to the program language quite cobol cobol was invented during the eisenhower years but it remains an important language for many of our largest financial institutions fourth street your savings account your credit
+that's all i on this today
+we see some familiar roads yeah but structurally i think just doesn't make much sense to most of you flash forward another thirty years to ninety ninety one and be saw the birth of python one of the most popular for gambling bitches in this era of a i
+in eighty years we've been fumbles to brackets to blips of english and yet he got nowhere near as close as that intuitiveness of human language
+but then came june twenty twenty and because early access to open the eyes large language model then call gpp sweet
+it was cool that we were all on lockdown i don't remember even elena video card together be fat and and programming exercise into this all model and like magic it so of ninety percent of them during the first few takes via get up like a nice with something remarkable in our hands and big fifty turned to our
+de nada develop a tool called get a copilot an ai assistant the predicts and completes code for software developers copilot is now the most adopted a i develop a tool on the planet
+the age of covering has been reborn
+at the possibilities of the break from further than just his business reasons
+because the largely much more that our church should and copilot trained on a fast my body of human information they understand and interpret nearly every human language have a major human language
+seem to get us
+we have struck a new fusion between the language of a human and efficient
+any human language
+with a single of little twat goodbye to the battles and the big as bracket
+this is the most profound beg for to technology since the genesis of software development itself
+today will one hundred million developers on get have that's about one percent of the world's population you know plus minus i think that number is about to explode and i want to show you why he on memory we started it all with the of it's not pilot a hobby say the oh gee copilot and literally just predicted and computer
+code in the editor at he can think of the editor as you know that google docs for developers center when you have an open talk open you know how this empty page what do i want to do and i mentioned lego so let's say let's build a speedy lego brick on a web page so what going up as doing this start typing in size type you know javascript file a a
+functional
+create a legal by can he can see this great text because this goes tax this is coming from the last with motors now i can just press the tacky and press enter and i get enough suggestion you know to create a lego tall maybe to it later like kinda us to function
+lego blake and she again you see goes text from copilot i'd have a available for me and if i like what i'm seeing yes i get into bit of mode of hiding an understanding i can just accept this developers love that right because instead of adding ten lanes of code themselves or copy and pasting them from the internet
+that get them right in the editor they can stay in the flow know what the orgy cooper the didn't offer me is invade to interact with this i cannot ask questions i cannot you know instructed to do different things last year be launched a new feature copilot checks and you can think about it this cenci be v added a second open this up in the sidebar
+and now i can not tell it to create a whole that page with the sweetie like a week for me now you know similar to you t extremes the response in the gives me not only some code but actually gives me an explanation you know it starts getting code you can see the comments that explains what the code does it uses an open source that really caught three j s nc can kinda see her that
+idea of this empowering developers and people that want to learn development and it is and seen over the another explanation i can go here inspector codie can actually push that button to copied into my file i want to show is something else you might have already seen as little make i can so i can use that to speak to copilot and i want to ask it
+it in german but that code does that is on the left seven the editor
+comes to me actually and is a fake would matt
+and now we know copilot response again but it's us in german to me right that says if i lose the translated yes of course the javascript code defines a function names or legal wage so get the idea he has six year old and berlin in in mumbai and real can now it's are putting without their parents being of
+and or even having a technical background
+i mean you know
+now what you also see as you still need to kind of figure out how you put that altogether right there's a lot of technical stuff he i have code have to integrate on my machine and have to figure out how to deploy the to the closet can sort of my friends but i use my leg awake now at this is what it looks like if i've done all these steps as a developer
+you can see you know it's a nice they want having great i can actually use my mouse to turn it around these are the enticed that see other states there's no studying effects can even zoom into this out of this now i don't want to do all this developer stuff anymore just one a channel my creativity straight into reality and so for the first time ever on stage via i'm going to show you know
+product that because hope hundred bucks space that does exactly that so here's my workspace me can already see that's not an editor anymore i can just see a task and i can enter a task into not have my leg opening i want to know expand the lego break into a lego house
+his deck the breaks in the shape of a lego house and i can do that also german in other languages but for now let's stick with english
+i can save my task the know what happens is that cooper adverse press analyze what i already have and then describes but it proposes to me busy get the friends my ask into a plan or specification the can see i you know it's all a natural language you know it uses some file names of course but there is no coach he has all describing it innings that can actually go in
+to this and edited and can make changes to this line or can go down here and had another item if i feel like the plan is not exactly what i want i can go a step further and generate a plan and now an agent runs pull all my files already has and figure out how to him what need to modify those files or you know twenty two advice to my depositories so not wants to add a
+create lego hosts function and a call the create like a hose afterwards looks good to me so let's implement this and now copilot uses my task my specific case mad men code for me you can see as to files acute the public lego blood yes file a boom there's already my code written for me right i didn't have to touch code i didn't have to even
+one code is no i see here this you know it import some new line into my father has with you know lots of coach you that that was changes so you want to see what that looks like did you get a like a house
+so
