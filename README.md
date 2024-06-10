@@ -39,3 +39,9 @@ To begin with, I collected multiple text documents and combined them into a sing
 - **After adjustment**
 
 <img width="858" alt="Screenshot 2024-06-10 at 14 53 35" src="https://github.com/cccamelia/coding3_final_project/assets/172149092/e02cdf9c-2dfd-411c-8781-5b6be7707a37">
+
+## Reference
+
+I don't use any AI in my coding, The quoted code, which I have labeled in the notebook
+
+<img width="676" alt="Screenshot 2024-06-10 at 15 50 43" src="https://github.com/cccamelia/coding3_final_project/assets/172149092/7d191592-045e-4f26-baee-89bc76c57256">
