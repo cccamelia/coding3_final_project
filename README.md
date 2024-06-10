@@ -12,7 +12,8 @@ To begin, I collected various TED Talks videos to create a comprehensive dataset
 
 **Data Collection Site URL:https:** //www.youtube.com/results?search_query=ted
 
-**Datasets:https:** //www.office.com/onedrive
+**Datasets:https:** [//www.office.com/onedrive
+](https://artslondon-my.sharepoint.com/:f:/r/personal/y_cao0320231_arts_ac_uk/Documents/TED%20video%20dataset?csf=1&web=1&e=y7CUYB)
 
 ## Try Vosk for Transcription：
 
