@@ -32,10 +32,10 @@ To begin with, I collected multiple text documents and combined them into a sing
 
 **Step 2:** Fine-Tune nanoGPT Parameters for Improved Accuracy
 
-Before adjustment
+- **Before adjustment**
 
 <img width="829" alt="Screenshot 2024-06-10 at 15 28 03" src="https://github.com/cccamelia/coding3_final_project/assets/172149092/4308d3d2-fe0b-46f3-a622-2eb32cf4da21">
 
-After adjustment
+- **After adjustment**
 
 <img width="858" alt="Screenshot 2024-06-10 at 14 53 35" src="https://github.com/cccamelia/coding3_final_project/assets/172149092/e02cdf9c-2dfd-411c-8781-5b6be7707a37">
