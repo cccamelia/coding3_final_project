@@ -26,6 +26,8 @@ This process converted all video audio to text, creating a textual dataset from 
 
 **Step 1:** Combine Multiple Text Files into One
 
+**NANOGPT URL:** https://git.arts.ac.uk/rfiebrink/ExploringMachineIntelligence_Spring2024/tree/main/class-5
+
 To begin with, I collected multiple text documents and combined them into a single text file. This step ensures that all the textual data is consolidated, making it easier to process and train the model.
 
 <img width="737" alt="Screenshot 2024-06-10 at 15 41 47" src="https://github.com/cccamelia/coding3_final_project/assets/172149092/3332ebcf-580e-48d4-b49a-cfd76c643c13">
@@ -45,3 +47,7 @@ To begin with, I collected multiple text documents and combined them into a sing
 I don't use any AI in my coding, The quoted code, which I have labeled in the notebook
 
 <img width="676" alt="Screenshot 2024-06-10 at 15 50 43" src="https://github.com/cccamelia/coding3_final_project/assets/172149092/7d191592-045e-4f26-baee-89bc76c57256">
+
+<img width="537" alt="Screenshot 2024-06-10 at 15 56 03" src="https://github.com/cccamelia/coding3_final_project/assets/172149092/0769f67a-edc0-426c-a2ce-4468c9874386">
+
+the sample of reference :)
