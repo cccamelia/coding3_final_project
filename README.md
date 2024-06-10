@@ -1,20 +1,20 @@
-**Author:**Yaling Cao
+**Author:** Yaling Cao
 
-**Student ID:**23002370
+**Student ID:** 23002370
 
-##Motivation:
+## Motivation:
 
 Inspired by the potential of leveraging TED Talks videos for educational and research purposes, I embarked on a project to collect and process TED videos. The goal is to transform video content into text and use advanced models to generate new, insightful video content related to TED Talks. This project aims to enhance the accessibility and usability of TED Talks by converting them into structured text data, which can be further analyzed and used to generate new content.
 
-##Create Dataset：
+## Create Dataset：
 
 To begin, I collected various TED Talks videos to create a comprehensive dataset. The videos were sourced from the official TED website and other reliable platforms.
 
-**Data Collection Site URL:https:**//www.youtube.com/results?search_query=ted
+**Data Collection Site URL:https:** //www.youtube.com/results?search_query=ted
 
-**Datasets:https:**//www.office.com/onedrive
+**Datasets:https:** //www.office.com/onedrive
 
-##Try Vosk for Transcription：
+## Try Vosk for Transcription：
 
 With the dataset ready, the next step was to transcribe the video content into text. I utilized the Vosk speech recognition toolkit, which offers robust and accurate transcription capabilities.
 
@@ -22,7 +22,7 @@ With the dataset ready, the next step was to transcribe the video content into t
 
 This process converted all video audio to text, creating a textual dataset from TED Talks.
 
-##Adjusting and generating text
+## Adjusting and generating text
 
 **Step 1:** Combine Multiple Text Files into One
 
