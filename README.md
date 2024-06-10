@@ -50,4 +50,4 @@ I don't use any AI in my coding, The quoted code, which I have labeled in the no
 
 <img width="537" alt="Screenshot 2024-06-10 at 15 56 03" src="https://github.com/cccamelia/coding3_final_project/assets/172149092/0769f67a-edc0-426c-a2ce-4468c9874386">
 
-the sample of reference :)
+the sample of reference :sparkles:
